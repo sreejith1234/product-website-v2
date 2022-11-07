@@ -37,7 +37,7 @@
 }
 .more-btn1{
     padding: 11px 8px;
-    background-color: #6f8aab;
+    background-color: #101d42;
     border-radius: 50px;
     color: #fff;
     border: none;
@@ -45,8 +45,10 @@
     width: 130px;
     margin: 16px 0px 0px 0px;
     transition: 1s !important;
-    font-size: 14px;
-    
+    font-size: 14px;  
+}
+.more-btn1:hover{
+  color: #fff;
 }
 .entry {
     margin: 100px 10px;
@@ -176,7 +178,7 @@
     padding: 0px 5px;
 }
 .bg-icon{
-    background-color: #c4d8f09c;
+    background-color: #101d42;
 }
 .bg-card{
     background-color: #fff;
@@ -244,25 +246,25 @@
   padding-bottom: 18px;
 }
 .step-list__item:first-child .icon {
-  background: #c4d8f0;
+  background: #e5e8f1;
 }
 .step-list__item:nth-child(2) .icon {
-  background: #c4d8f0;
+  background: #e5e8f1;
 }
 .step-list__item:nth-child(3) .icon {
-  background: #c4d8f0;
+  background: #e5e8f1;
 }
 .step-list__item:nth-child(4) .icon {
-  background: #c4d8f0;
+  background: #e5e8f1;
 }
 .step-list__item:nth-child(5) .icon {
-  background: #c4d8f0;
+  background: #e5e8f1;
 }
 .step-list__item:nth-child(6) .icon {
-    background: #c4d8f0;
+    background: #e5e8f1;
 }
 .step-list__item:nth-child(7) .icon {
-    background: #c4d8f0;
+    background: #e5e8f1;
 }
 .step-list__item:nth-child(odd) .content {
   justify-content: flex-start;

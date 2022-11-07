@@ -49,19 +49,19 @@
 }
 .more-btn1{
     padding: 11px 8px;
-    background-color: #9acfcf;
+    background-color: #101d42;
     border-radius: 50px;
-    color: #000;
+    color: #fff;
     border: none;
     text-align: center;
     width: 130px;
     margin: 16px 0px 0px 0px;
     transition: 1s !important;
     font-size: 14px;
-    opacity: 0.7; 
+    opacity: 1; 
 }
 .more-btn1:hover{
-    color: #000;
+    color: #fff;
 }
 .more-btn1:focus {
     outline: 0;
@@ -748,7 +748,7 @@ a {
 }
 .tl-content  h1 {
     text-transform: uppercase;
-    color: #2df4f4;
+    color: #ffffff;
     font-size: 1.44rem;
     font-weight: normal;
 }
@@ -855,7 +855,7 @@ margin-bottom: 0rem;
   content: "";
   width: 80px;
   height: 3px;
-  background-color: #96cfcf;
+  background-color: #101d42;
 }
 #features .features-content {
   display: flex;
@@ -969,7 +969,7 @@ margin-bottom: 0rem;
   width: 70px;
   height: 70px;
   background-color: #fff;
-  border: 1px solid #96cfcf;
+  border: 1px solid #101d42;
   -webkit-border-radius: 10px;
   -moz-border-radius: 10px;
   -ms-border-radius: 10px;
@@ -1125,7 +1125,7 @@ margin-bottom: 0rem;
   opacity: 0;
   width: 12em;
   height: 12em;
-  border: #96cfcf 1px solid;
+  border: #101d42 1px solid;
   border-radius: 7em;
   -webkit-animation-name: ripple;
   animation-name: ripple;
@@ -1141,7 +1141,7 @@ margin-bottom: 0rem;
   opacity: 0;
   width: 12em;
   height: 12em;
-  border: #96cfcf 1px solid;
+  border: #101d42 1px solid;
   border-radius: 7em;
   -webkit-animation-name: ripple2;
   animation-name: ripple2;
@@ -1157,7 +1157,7 @@ margin-bottom: 0rem;
   opacity: 0;
   width: 12em;
   height: 12em;
-  border: #96cfcf 1px solid;
+  border: #101d42 1px solid;
   border-radius: 7em;
   -webkit-animation-name: ripple3;
   animation-name: ripple3;
@@ -1173,7 +1173,7 @@ margin-bottom: 0rem;
   opacity: 0;
   width: 12em;
   height: 12em;
-  border: #96cfcf 1px solid;
+  border: #101d42 1px solid;
   border-radius: 7em;
   -webkit-animation-name: ripple4;
   animation-name: ripple4;
@@ -1321,7 +1321,7 @@ font-size: var(--bs-body-font-size);
   content: "";
   width: 5px;
   height: 5px;
-  background-color: #96cfcf;
+  background-color: #101d42;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   -ms-border-radius: 50%;
@@ -1347,7 +1347,7 @@ font-size: var(--bs-body-font-size);
   align-items: center;
 }
 #features .features-graph .flash-oval {
-  background-color: #96cfcf;
+  background-color: #101d42;
   width: 12em;
   height: 12em;
   border-radius: 7em;

@@ -45,8 +45,10 @@
     width: 130px;
     margin: 16px 0px 0px 0px;
     transition: 1s !important;
-    font-size: 14px;
-    
+    font-size: 14px; 
+}
+.more-btn1:hover{
+  color: #fff;
 }
 .entry {
     margin: 100px 10px;
