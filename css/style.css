@@ -18,6 +18,9 @@
   font-family: Roboto-Bold;
   src: url(../font/Roboto-Bold.ttf);
 }
+body{
+    color: #101d42;
+}
 *{
     margin: 0px;
     padding:  0px;
